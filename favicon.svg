@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<title>iPhone 16 Pro</title>
+<rect width="512" height="512" rx="112" fill="#000"/>
+<g fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<rect x="151" y="36" width="210" height="440" rx="36"/>
+<rect x="160" y="45" width="192" height="422" rx="28" stroke-width="3.5"/>
+<rect x="164.0" y="45.0" width="110" height="110" rx="24"/>
+<g stroke-width="5"><circle cx="193" cy="74" r="22"/><circle cx="193" cy="74" r="14.5"/><circle cx="193" cy="74" r="6"/><circle cx="193" cy="126" r="22"/><circle cx="193" cy="126" r="14.5"/><circle cx="193" cy="126" r="6"/><circle cx="245" cy="100" r="22"/><circle cx="245" cy="100" r="14.5"/><circle cx="245" cy="100" r="6"/></g>
+<circle cx="245" cy="64" r="5.5" stroke-width="4"/>
+<circle cx="245" cy="137" r="6" stroke-width="4"/>
+<circle cx="231" cy="64" r="2" stroke-width="3"/>
+<path d="M146 116v22M146 158v34M146 208v34M366 166v62M366 286v40" stroke-width="6"/>
+</g></svg>

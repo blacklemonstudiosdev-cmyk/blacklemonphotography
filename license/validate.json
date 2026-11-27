@@ -1,0 +1,8 @@
+{
+  "_note": "Optional. Fill in your Lemon Squeezy store_id and product_id so only keys from your own store are accepted. Set dodo to false to turn Dodo Payments keys off.",
+  "lemonsqueezy": {
+    "store_id": 423902,
+    "product_id": 1536672
+  },
+  "dodo": true
+}

@@ -1,0 +1,8 @@
+{
+  "label": "License",
+  "heading": "License a photograph.",
+  "body": [
+    "Describe what a license covers here: how the photographs can be used, for how long, and what is not allowed.",
+    "Edit license/text.json to change this text. Each string in the body list becomes its own paragraph."
+  ]
+}
